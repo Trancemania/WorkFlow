@@ -1,0 +1,3 @@
+([('WorkFlowEditor',
+   '/Users/trancemania/Documents/GitHub/WorkFlow/dist/WorkFlowEditor',
+   'EXECUTABLE')],)
